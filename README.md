@@ -1,11 +1,1 @@
-Hello, World!
-
-# Title 1
-
-## Title 2
-
-- Bullet 1
-- Bullet 2
-
-[link](https://example.com)
-
+For more information about my GitHub projects head on over to https://greg.ca/projects/.
