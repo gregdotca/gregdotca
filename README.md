@@ -14,6 +14,6 @@ Mastodon: @greg@greg.ca
 Matrix: [@greg:greg.ca](https://matrix.to/#/@greg:greg.ca)  
 Nostr: greg@greg.ca  
 Personal API: [greg.ca/api/](https://greg.ca/api/)  
-Pigeon (Carrier): On hold. Training going poorly.
+Pigeon (Carrier): On hold. Training going poorly.  
 Resume: [gregchetcuti.com](https://gregchetcuti.com/)  
 Social Media (rarely used): [Facebook](https://www.facebook.com/gregjch/), [LinkedIn](https://www.linkedin.com/in/gregchetcuti/), [X](https://x.com/gregchetcuti/)
