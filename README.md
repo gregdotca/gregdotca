@@ -9,6 +9,7 @@ Best Regards,
 Greg Chetcuti
 
 Email: [greg@greg.ca](mailto:greg@greg.ca), [greg@chetcuti.com](mailto:greg@chetcuti.com)  
+GitHub: [github.com/gregdotca](https://github.com/gregdotca/)  
 Web: [greg.ca](https://greg.ca)  
 Mastodon: @greg@greg.ca  
 Matrix: [@greg:greg.ca](https://matrix.to/#/@greg:greg.ca)  
