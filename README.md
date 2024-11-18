@@ -17,4 +17,4 @@ Nostr: greg@greg.ca
 Personal API: [greg.ca/api/](https://greg.ca/api/)  
 Pigeon (Carrier): On hold. Training going poorly.  
 Resume: [gregchetcuti.com](https://gregchetcuti.com/)  
-Social Media (rarely used): [Facebook](https://www.facebook.com/gregjch/), [LinkedIn](https://www.linkedin.com/in/gregchetcuti/), [X](https://x.com/gregchetcuti/)
+Social Media (rarely used): [Bluesky](https://bsky.app/profile/greg.ca), [Facebook](https://www.facebook.com/gregjch/), [LinkedIn](https://www.linkedin.com/in/gregchetcuti/), [X](https://x.com/gregchetcuti/)
