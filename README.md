@@ -1,3 +1,5 @@
+![Greg Chetcuti's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gregdotca&theme=prussian "Greg Chetcuti's GitHub Stats")
+
 Hello, and welcome to my personal GitHub profile!
 
 This profile only contains a handful of tools and some personal code snippets, and the repositories here aren't very active. The bulk of my code contributions are made under separate organizations, such as [DomainMOD](https://github.com/domainmod) and [HomelabAPI](https://github.com/homelabapi/homelabapi).
