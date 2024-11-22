@@ -1,4 +1,4 @@
-![Greg Chetcuti's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gregdotca&theme=nord "Greg Chetcuti's GitHub Stats")
+![Greg Chetcuti's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gregdotca&theme=prussian "Greg Chetcuti's GitHub Stats")
 
 Hello, and welcome to my personal GitHub profile!
 
