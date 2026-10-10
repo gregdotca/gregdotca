@@ -1,4 +1,5 @@
 ![Greg Chetcuti's GitHub stats and rank](https://gregdotca-stats.vercel.app/api?username=gregdotca&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&theme=prussian&card_width=495 "Greg Chetcuti's GitHub stats and rank")
+
 ![Greg Chetcuti's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gregdotca&theme=prussian "Greg Chetcuti's GitHub Stats")
 
 Hello, and welcome to my personal GitHub profile!
