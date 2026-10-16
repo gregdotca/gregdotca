@@ -12,7 +12,7 @@ This is Greg's GitHub profile README: the special `gregdotca/gregdotca` reposito
   - The stats and rank card comes from Greg's own deployment at `gregdotca-stats.vercel.app` (a github-readme-stats instance), using `count_private=true` and `role=OWNER,ORGANIZATION_MEMBER` so private and organization work is counted.
   - The streak card comes from the public `github-readme-streak-stats.herokuapp.com` service.
   - Both use the `prussian` theme; keep them matching when changing either.
-- **Intro text** points to HomelabAPI (which lives under the `gregdotca` account at `gregdotca/homelabapi`), to Greg's DomainMOD organization, and to https://greg.ca/projects/.
+- **Intro text** points readers to the pinned repositories GitHub shows below the README, to Greg's DomainMOD and AI Code Rating organizations, and to https://greg.ca/projects/. Individual repos aren't listed in the README; featured projects are shown with GitHub's pins instead.
 - **Contact list** mirrors https://greg.ca/contact/. Keep it in sync with that page rather than editing entries on their own. Each contact line except the last ends in two trailing spaces (Markdown hard line breaks), so don't strip trailing whitespace. The email line deliberately lists both `greg@greg.ca` and `greg@chetcuti.com`; keep both and don't flag `greg@greg.ca` as an old address here.
 
 To check a change, preview the rendered Markdown (GitHub's preview or any Markdown viewer) and open the image URLs to make sure the cards still load.
