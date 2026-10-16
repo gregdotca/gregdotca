@@ -4,7 +4,7 @@
 
 Hello, and welcome to my personal GitHub profile!
 
-This profile only contains a handful of tools and some personal code snippets, and the repositories here aren't very active. The bulk of my code contributions are made under separate organizations, such as [DomainMOD](https://github.com/domainmod) and [HomelabAPI](https://github.com/homelabapi/homelabapi).
+This profile is home to [HomelabAPI](https://github.com/gregdotca/homelabapi), along with a handful of tools and some personal code snippets. Most of my other code contributions are made under separate organizations, such as [DomainMOD](https://github.com/domainmod).
 
 For more information about my GitHub projects, head on over to [greg.ca/projects/](https://greg.ca/projects/).
 
