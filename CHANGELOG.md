@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-05
+
+- Replaced the stats and streak cards with four daily-built cards (summary, most used languages, notable contributions, and weekly rhythm) that follow the viewer's light or dark GitHub theme.
+
 ## 2026-10-15
 
 - Reworded the intro to point to the pinned repositories instead of naming HomelabAPI, so featured projects are managed with GitHub's pins, and to name the DomainMOD and AI Code Rating organizations.

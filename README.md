@@ -1,6 +1,23 @@
-![Greg Chetcuti's GitHub stats and rank](https://gregdotca-stats.vercel.app/api?username=gregdotca&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&theme=prussian&card_width=495 "Greg Chetcuti's GitHub stats and rank")
-
-![Greg Chetcuti's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gregdotca&theme=prussian "Greg Chetcuti's GitHub Stats")
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/summary-light.svg" width="450" alt="Greg Chetcuti's GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/languages-light.svg" width="350" alt="Greg Chetcuti's most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/contributions-light.svg" width="450" alt="Greg Chetcuti's notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/gregdotca/gregdotca/cards/weekly-light.svg" width="350" alt="Greg Chetcuti's weekly rhythm">
+</picture>
+</p>
 
 Hello, and welcome to my personal GitHub profile!
 
