@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-11
+
+- Updated the Mastodon contact line to the new @gregdotca@mastodon.social account, matching greg.ca/contact/.
+
 ## 2026-11-05
 
 - Replaced the stats and streak cards with four daily-built cards (summary, most used languages, notable contributions, and weekly rhythm) that follow the viewer's light or dark GitHub theme.
