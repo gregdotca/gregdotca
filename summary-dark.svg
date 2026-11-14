@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">GitHub stats</title>
+<desc id="desc">Contributions: 1826 in the last 12 months, 8421 all time. Active days: 322 in the last 12 months, 1521 all time. Repositories: 17 created in the last 12 months, 75 all time. Contributed to: 56 repositories in the last 12 months, 104 all time. Stars earned: 62 in the last 12 months, 778 all time. Active on 322 of the last 365 days (88%). Rank: A-.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .label { font-size: 14px; }
+  .value { font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .small { font-size: 12px; }
+  .col { font-size: 11px; fill: #7d8590; letter-spacing: 0.04em; }
+  .secondary { fill: #9198a1; }
+  .muted { fill: #7d8590; }
+  .icon { fill: #9198a1; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .logo { fill: #f0f6fc; }
+  @keyframes ring { from { stroke-dashoffset: 219.91; } }
+</style>
+<rect x="0.5" y="0.5" width="449" height="194" rx="6" fill="none" stroke="none"/>
+<text x="202" y="28" class="col" text-anchor="end">YEAR</text><text x="280" y="28" class="col" text-anchor="end">ALL TIME</text><text x="378" y="28" class="col" text-anchor="middle">RANK</text>
+<g transform="translate(0 46)"><g class="fade" style="animation-delay: 200ms"><g class="icon" transform="translate(0 3) scale(1)"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path></g><text x="26" y="15" class="label">Contributions</text><text x="202" y="15" class="value" text-anchor="end">1,826</text><text x="280" y="15" class="value" text-anchor="end">8,421</text></g></g>
+<g transform="translate(0 74)"><g class="fade" style="animation-delay: 290ms"><g class="icon" transform="translate(0 3) scale(1)"><path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"></path></g><text x="26" y="15" class="label">Active days</text><text x="202" y="15" class="value" text-anchor="end">322</text><text x="280" y="15" class="value" text-anchor="end">1,521</text></g></g>
+<g transform="translate(0 102)"><g class="fade" style="animation-delay: 380ms"><g class="icon" transform="translate(0 3) scale(1)"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></g><text x="26" y="15" class="label">Repositories</text><text x="202" y="15" class="value" text-anchor="end">17</text><text x="280" y="15" class="value" text-anchor="end">75</text></g></g>
+<g transform="translate(0 130)"><g class="fade" style="animation-delay: 470ms"><g class="icon" transform="translate(0 3) scale(1)"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0V1.5h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 4.5 9h2.25a.75.75 0 0 1 0 1.5H4.5a1 1 0 0 0 0 2h4.75a.75.75 0 0 1 0 1.5H4.5A2.5 2.5 0 0 1 2 11.5Zm12.23 7.79h-.001l-1.224-1.224v6.184a.75.75 0 0 1-1.5 0V9.066L10.28 10.29a.75.75 0 0 1-1.06-1.061l2.505-2.504a.75.75 0 0 1 1.06 0L15.29 9.23a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018Z"></path></g><text x="26" y="15" class="label">Contributed to</text><text x="202" y="15" class="value" text-anchor="end">56</text><text x="280" y="15" class="value" text-anchor="end">104</text></g></g>
+<g transform="translate(0 158)"><g class="fade" style="animation-delay: 560ms"><g class="icon" transform="translate(0 3) scale(1)"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path></g><text x="26" y="15" class="label">Stars earned</text><text x="202" y="15" class="value" text-anchor="end">62</text><text x="280" y="15" class="value" text-anchor="end">778</text></g></g>
+<circle cx="378" cy="83" r="35" stroke="#3d444d" stroke-width="6" fill="none"/>
+<circle class="ring" cx="378" cy="83" r="35" stroke="#4493f8" stroke-width="6" fill="none" stroke-linecap="round"
+  stroke-dasharray="219.91" stroke-dashoffset="79.97" transform="rotate(-90 378 83)"/>
+<g class="pop"><text x="378" y="91" text-anchor="middle" style="font-size: 23px; font-weight: 700;">A-</text></g>
+</svg>
